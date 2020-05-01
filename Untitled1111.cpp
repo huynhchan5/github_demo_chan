@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	printf("\nCHÂN_CHÂN, NAMMIRIKATO5@GMAIL.COM");
+	printf("\nCHï¿½N_CHï¿½N, NAMMIRIKATO5@GMAIL.COM");
 	printf("\n biet duoc git vui qua");
+	printf("\n biet duoc git vui qua haha");
+	printf("\n biet duoc git vui qua haha");
 	
 }
