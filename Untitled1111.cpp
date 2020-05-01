@@ -7,3 +7,7 @@ int main()
 	printf("\n biet duoc git vui qua haha");
 	
 }
+
+int doJobA(){
+	printf("\n da lam ham A");
+};
